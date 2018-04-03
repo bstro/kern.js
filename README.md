@@ -1,4 +1,2 @@
-# Kern.js v2
-
-### Known issues
-+ Does not work if the selected element contains any other HTML tags (such as line breaks, spans, etc).
+### Important: 
+My registration for the website for this project, www.kernjs.com, lapsed and was hijacked by some folks who added some nefarious links to the page which looks otherwise innocuous. Be wary. This project probably also doesn't work at all anymore.
